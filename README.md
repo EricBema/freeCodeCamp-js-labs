@@ -11,6 +11,7 @@ This repository contains my solutions to the labs and projects from the certific
 | Lab / Project | Description | File |
 | :--- | :--- | :--- |
 | **01. Lunch Picker Program** | Practice array methods (`push`, `pop`, `unshift`, `shift`), conditionals, and string formatting. | [`01-lunch-picker.js`](./01-lunch-picker.js) |
+| **02. Golf Score Translator Program** | Practice array referrencing and conditionals. | [`02-golf-score-translator.js`](./02-golf-score-translator.js) |
 
 ---
 
