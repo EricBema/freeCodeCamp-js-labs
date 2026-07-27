@@ -12,7 +12,7 @@ This repository contains my solutions to the labs and projects from the certific
 | :--- | :--- | :--- |
 | **01. Lunch Picker Program** | Practice array methods (`push`, `pop`, `unshift`, `shift`), conditionals, and string formatting. | [`01-lunch-picker.js`](./01-lunch-picker.js) |
 | **02. Golf Score Translator Program** | Practice array referrencing and conditionals. | [`02-golf-score-translator.js`](./02-golf-score-translator.js) |
-| **03. Cargo Manifest Validator** | Practice working with objects, functions and referencing object properties| [`02-cargo-manifest-validator.js`](./03-cargo-manifest-validator.js) |
+| **03. Cargo Manifest Validator** | Practice working with objects, functions and referencing object properties| [`03-cargo-manifest-validator.js`](./03-cargo-manifest-validator.js) |
 
 ---
 
