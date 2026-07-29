@@ -13,7 +13,8 @@ This repository contains my solutions to the labs and projects from the certific
 | **01. Lunch Picker Program** | Practice array methods (`push`, `pop`, `unshift`, `shift`), conditionals, and string formatting. | [`01-lunch-picker.js`](./01-lunch-picker.js) |
 | **02. Golf Score Translator Program** | Practice array referrencing and conditionals. | [`02-golf-score-translator.js`](./02-golf-score-translator.js) |
 | **03. Cargo Manifest Validator** | Practice working with objects, functions and referencing object properties| [`03-cargo-manifest-validator.js`](./03-cargo-manifest-validator.js) |
-| **04. Quiz Game** | Practice data modelling with objects and arrays. Program flow. | [`04-quiz.js`](./04-quiz-game.js) |
+| **04. Quiz Game** | Practice data modelling with objects and arrays. Program flow. | [`04-quiz-game.js`](./04-quiz-game.js) |
+| **05. Record Collection** | Dynamic Object property access and Working with nested data structures | [`05-record-collection.js`](./05-record-collection.js) |
 
 ---
 
@@ -59,6 +60,7 @@ As I progress through the JavaScript Certification, this repository will cover t
 | ✅ Completed | Golf Score Translator Program |
 | ✅ Completed | Cargo Manifest Validator |
 | ✅ Completed | Quiz Game |
+| ✅ Completed | Record Collection |
 | ⏳ Upcoming | More JavaScript labs and projects |
 
 ---
