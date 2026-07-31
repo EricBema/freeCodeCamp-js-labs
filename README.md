@@ -15,6 +15,7 @@ This repository contains my solutions to the labs and projects from the certific
 | **03. Cargo Manifest Validator** | Practice working with objects, functions and referencing object properties| [`03-cargo-manifest-validator.js`](./03-cargo-manifest-validator.js) |
 | **04. Quiz Game** | Practice data modelling with objects and arrays. Program flow. | [`04-quiz-game.js`](./04-quiz-game.js) |
 | **05. Record Collection** | Dynamic Object property access and Working with nested data structures | [`05-record-collection.js`](./05-record-collection.js) |
+| **06. Traffic Light Sequencer** | Practice using Loops specifically normal for loops and for...of/in loops | [`06-traffic-light-sequencer.js`](06-traffic-light-sequencer.js) |
 
 ---
 
@@ -61,6 +62,7 @@ As I progress through the JavaScript Certification, this repository will cover t
 | ✅ Completed | Cargo Manifest Validator |
 | ✅ Completed | Quiz Game |
 | ✅ Completed | Record Collection |
+| ✅ Completed | Traffic Light Sequencer |
 | ⏳ Upcoming | More JavaScript labs and projects |
 
 ---
