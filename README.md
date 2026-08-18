@@ -19,6 +19,7 @@ This repository contains my solutions to the labs and projects from the certific
 | **07. Smart Pantry Restocker** | Parsing pipe-separated raw data, deduplicating records, evaluating stock rules, grouping actions by zone, and deep-copying state using structuredClone | [`07-smart-pantry-restocker.js`](./07-smart-pantry-restocker.js) |
 | **08. Proofreading Tool** | Practice string and array methods by checking for palindromes, finding repeated word phrases, and analyzing multiple texts using helper functions. | [`08-proofreading-tool.js`](./08-proofreading-tool.js) |
 | **09. Restore Story Fragments** | Reconstruct stories from shuffled fragments by cleaning undefined entries, sorting by `id`, removing duplicates, filling missing fragments, and assembling the final text. | [`09-restore-story-fragments.js`](./09-restore-story-fragments.js) |
+| **10. Inventory Management Program** | Build an inventory system with functions to add, remove, and manage product quantities. Practice working with arrays of objects, searching, and state management. | [`10-inventory-management-program.js`](./10-inventory-management-program.js) |
 
 ---
 
@@ -69,6 +70,7 @@ As I progress through the JavaScript Certification, this repository will cover t
 | ✅ Completed | Smart Pantry Restocker |
 | ✅ Completed | Proofreading Tool |
 | ✅ Completed | Restore Story Fragments |
+| ✅ Completed | Inventory Management Program |
 | ⏳ Upcoming | More JavaScript labs and projects |
 
 ---
